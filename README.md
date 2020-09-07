@@ -1,3 +1,6 @@
+
+https://medium.com/@sjlouji10/react-js-and-drf-jwt-login-and-register-1998d5db8c50
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
